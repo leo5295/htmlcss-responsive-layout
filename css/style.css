@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 header{
@@ -12,11 +13,17 @@ header{
     margin-bottom: 50px;
 }
 
+.header-row{
+    width: 90%;
+    margin: 0 auto;
+}
+
 .app-card{
     background-color: #0084ff;
     border-radius: 20px;
     text-align: center;
     margin: 20px;
+    padding: 20px;
 }
 
 .app-col{
@@ -62,4 +69,25 @@ header{
 .benefits-container{
     width: 100%;
     margin: 0 auto;
+}
+
+.img-border-radius{
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+    border-radius: 80%;
+}
+
+.about-us{
+    padding: 20px;
+    margin: 20px;
+}
+
+.violet-button{
+    background-color: #9792e4;
+    color: aliceblue;
+    border-radius: 30px;
+    width: auto;
+    padding: 10px;
+    border: none;
 }
