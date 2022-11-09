@@ -19,7 +19,7 @@ header{
 }
 
 .app-card{
-    background-color: #0084ff;
+    background-color: #b5ddff;
     border-radius: 20px;
     text-align: center;
     margin: 20px;
@@ -85,6 +85,15 @@ header{
 
 .violet-button{
     background-color: #9792e4;
+    color: white;
+    border-radius: 30px;
+    width: auto;
+    padding: 10px;
+    border: none;
+}
+
+.header-button{
+    background-color: #0084ff;
     color: aliceblue;
     border-radius: 30px;
     width: auto;
