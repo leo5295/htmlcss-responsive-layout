@@ -9,4 +9,25 @@ header{
     background-color: #0084ff;
     display: flex;
     align-items: center;
+    margin-bottom: 50px;
+}
+
+.app-card{
+    background-color: #0084ff;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.app-col{
+    width: 100%;
+}
+
+.phone{
+    width: 100%;
+}
+
+.app-container{
+    width: 80%;
+    margin: 0 auto;
 }
