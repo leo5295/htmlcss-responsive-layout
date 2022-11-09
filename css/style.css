@@ -23,11 +23,43 @@ header{
     width: 100%;
 }
 
-.phone{
+.img-width{
     width: 100%;
 }
 
 .app-container{
     width: 80%;
+    margin: 0 auto;
+}
+
+.planning-container{
+    background-color: #9792e4;
+    margin: 0 auto;
+}
+
+.planning-row{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.planning-img{
+    width: 100%;
+}
+
+.white-card{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.testimonial-card{
+    background-color: #9792e4;
+}
+
+.violet{
+    background-color: #9792e4;
+}
+
+.benefits-container{
+    width: 100%;
     margin: 0 auto;
 }
