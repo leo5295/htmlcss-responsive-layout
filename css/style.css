@@ -100,3 +100,17 @@ header{
     padding: 10px;
     border: none;
 }
+
+.icon-size{
+    color: #0084ff;
+    font-size: 100px;
+}
+
+p{
+    line-height: 30px;
+}
+
+.arrow-size{
+    font-size: 50px;
+    background-color: red;
+}
